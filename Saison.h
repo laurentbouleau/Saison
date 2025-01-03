@@ -19,5 +19,6 @@
 #include <codecvt>
 #include <tuple>
 #include <optional>
+#include <list>
 #include <filesystem> // C++17 standard header file name
 
